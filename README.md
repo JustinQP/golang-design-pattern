@@ -1,7 +1,5 @@
 # Go 语言设计模式
 
-[![Build Status](https://travis-ci.org/senghoo/golang-design-pattern.svg?branch=master)](https://travis-ci.org/senghoo/golang-design-pattern)
-
 Go 语言设计模式的实例代码
 
 ## 创建型模式
@@ -34,5 +32,5 @@ Go 语言设计模式的实例代码
 * [状态模式（State）](./37_state)
 * [备忘录模式（Memento）](./38_memento)
 * [解释器模式（Interpreter）](./39_interpreter)
-* [职责链模式（Chain of Responsibility）](./310_chain_of_responsibility)
-* [访问者模式（Visitor）](./311_visitor)
+* [职责链模式（Chain of Responsibility）](./40_chain_of_responsibility)
+* [访问者模式（Visitor）](./41_visitor)
